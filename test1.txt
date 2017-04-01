@@ -1,0 +1,13 @@
+git 
+
+add : 즐겨찾기 
+commit : 변동사항저장 (최종 저장) 
+marge : 병합 정정사항 알려줌
+
+
+cd c:
+cd project/
+git init : 폴더안에 저장소를 만들겟다 
+git remote add origin https://github.com/sajame/june.git 
+vim README.md 없으면 만들어주고 있으면 정정하게 
+git status 
