@@ -1,13 +1,13 @@
 git 
 
-add : Áñ°ÜÃ£±â 
-commit : º¯µ¿»çÇ×ÀúÀå (ÃÖÁ¾ ÀúÀå) 
-marge : º´ÇÕ Á¤Á¤»çÇ× ¾Ë·ÁÁÜ
+add : ì¦ê²¨ì°¾ê¸° 
+commit : ë³€ë™ì‚¬í•­ì €ì¥ (ìµœì¢… ì €ì¥) 
+marge : ë³‘í•© ì •ì •ì‚¬í•­ ì•Œë ¤ì¤Œ
 
 
 cd c:
 cd project/
-git init : Æú´õ¾È¿¡ ÀúÀå¼Ò¸¦ ¸¸µé°Ù´Ù 
+git init : í´ë”ì•ˆì— ì €ì¥ì†Œë¥¼ ë§Œë“¤ê²Ÿë‹¤ 
 git remote add origin https://github.com/sajame/june.git 
-vim README.md ¾øÀ¸¸é ¸¸µé¾îÁÖ°í ÀÖÀ¸¸é Á¤Á¤ÇÏ°Ô 
-git status 
+vim README.md ì—†ìœ¼ë©´ ë§Œë“¤ì–´ì£¼ê³  ìˆìœ¼ë©´ ì •ì •í•˜ê²Œ 
+git status    
